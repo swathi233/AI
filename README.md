@@ -8,3 +8,5 @@ Link of the CV dataset:
 Emotion detection: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 Facial age detection: https://www.kaggle.com/datasets/frabbisw/facial-age
 Gender detection: https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
+
+requirments.txt ---> under the CV folder can be used for all the use cases added.
